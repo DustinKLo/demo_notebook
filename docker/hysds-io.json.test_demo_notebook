@@ -14,5 +14,6 @@
       "default": "test_demo_notebook"
     }
   ],
-  "component": "tosca"
+  "component": "tosca",
+  "label": "test_demo_notebook_12-14"
 }
