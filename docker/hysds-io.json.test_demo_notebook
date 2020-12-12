@@ -1,0 +1,18 @@
+{
+  "submission_type": "individual",
+  "params": [
+    {
+      "name": "val_1",
+      "from": "submitter",
+      "type": "number",
+      "default": "34343"
+    },
+    {
+      "name": "val_2",
+      "from": "submitter",
+      "type": "text",
+      "default": "test_demo_notebook"
+    }
+  ],
+  "component": "tosca"
+}
